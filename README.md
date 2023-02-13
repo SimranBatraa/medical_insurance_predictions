@@ -38,5 +38,8 @@ SUPPORT VECTOR MACHINE MODEL
 RANDOM FOREST MODEL
 [![Screenshot-866.png](https://i.postimg.cc/4x8jYX39/Screenshot-866.png)](https://postimg.cc/LJ1x7KL9)
 
+MODEL COMPARISON:
+[![Screenshot-868.png](https://i.postimg.cc/nhpCFbR7/Screenshot-868.png)](https://postimg.cc/PPVtyckr)
+
 
 
