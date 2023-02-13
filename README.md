@@ -1,6 +1,6 @@
 MEDICAL INSURANCE AMOUNT PREDICTION
 
-Application of Regression Machine Learning Models in order to find out the Insurance Amount with the help of the best model
+Application of Regression Machine Learning Models and Exploratory Data Analysis in order to find out the Insurance Amount with the help of the best model
 
 MODELS USED: Linear Regression,Support Vector Machine and Random Forest
 
