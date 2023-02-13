@@ -16,7 +16,7 @@ INSIGHTS:
 
 [![Screenshot-857.png](https://i.postimg.cc/tgZCBSZY/Screenshot-857.png)](https://postimg.cc/nsxJz11J)
 
-[![Screenshot-858.png](https://i.postimg.cc/ncFFyc98/Screenshot-858.png)](https://postimg.cc/z3QYWNkp)
+[![Screenshot-867.png](https://i.postimg.cc/YSdgcybk/Screenshot-867.png)](https://postimg.cc/hJ7hTsk3)
 
 [![Screenshot-859.png](https://i.postimg.cc/BvK4TjkF/Screenshot-859.png)](https://postimg.cc/p9RwxL2V)
 
